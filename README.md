@@ -1,18 +1,6 @@
-# Vue.js by sample
+# Vue.js  sample projects
 
-The goal of this project is to provide a set of step by step samples, covering core concepts of Vue.js
-Each of the samples contains a `README.md` file that indicates the purpose of the sample plus an step by step guide to reproduce it.
 
-# Demos
-
-## 00 Boilerplate
-
-In this sample we are going to setup a web project that can be easily managed
-by webpack.
-
-We won't install anything related to Vue.js, just some basic plumbing.
-
-We will setup an initial <abbr title="Node.js package manager, a package manager for the JavaScript runtime environment Node.js">npm</abbr> project and give support to TypeScript. Then we will create a **helloworld.ts** sample.
 
 Summary steps:
 
@@ -101,12 +89,3 @@ Summary steps:
 - Create `edit recipe` form.
 - Add `form validations` with `lc-form-validation`.
 
-# About Basefactor + Lemoncode
-
-We are an innovating team of Javascript experts, passionate about turning your ideas into robust products.
-
-[Basefactor, consultancy by Lemoncode](http://www.basefactor.com) provides consultancy and coaching services.
-
-[Lemoncode](http://lemoncode.net/services/en/#en-home) provides training services.
-
-For the LATAM/Spanish audience we are running an Online Front End Master degree, more info: http://lemoncode.net/master-frontend
